@@ -1,4 +1,6 @@
 #Guess the Number Game
+#Author : João Vitor Rondon
+#Code Contribution : Lucas Capatini
 import random
 
 print("******************************")
